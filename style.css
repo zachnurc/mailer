@@ -1,0 +1,48 @@
+h5 {
+  margin: 0 auto;
+  padding: 5px;
+}
+
+form {
+  margin: 0 auto;
+  width: 30px;
+  height: 30px;
+}
+
+.score {
+  width: 100%;
+}
+
+.reset {
+  margin: 10px;
+  margin-left: 5px;
+}
+
+.board {
+  width: 160px;
+}
+
+.square {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  border: 2px;
+  border-style: solid;
+  text-align: center;
+  position: relative;
+  height: 25px;
+  width: 25px;
+  vertical-align: top;
+}
+
+.left {
+  left: 0;
+}
+
+.center {
+
+}
+
+.right {
+  right: 0;
+}
